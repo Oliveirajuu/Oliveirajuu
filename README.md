@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Sobre mim:
 Entusiasta da tecnologia em formação.  
-Atualmente estudando **C#** e **Python**. Sempre buscando aprender mais.
+Atualmente estudando **C#** e **Python**.
 
 ---
 
