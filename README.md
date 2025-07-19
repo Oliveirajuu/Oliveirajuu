@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Sobre mim:
 Sou desenvolvedora em formação, apaixonada por tecnologia, programação e desafios.  
-Atualmente estudando **C#**, **Git** e **GitHub**, e sempre buscando aprender mais.
+Atualmente estudando **C#**, **Python** e **GitHub**, e sempre buscando aprender mais.
 
 ---
 
@@ -24,7 +24,7 @@ Atualmente estudando **C#**, **Git** e **GitHub**, e sempre buscando aprender ma
 ---
 
 ## 📫 Como me encontrar:
-[![Email Badge](https://img.shields.io/badge/-juliaaliveira_99@hotmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:juliaaliveira_99@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-juliaoliveira_99@hotmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:juliaaliveira_99@hotmail.com)
 
 ---
 
