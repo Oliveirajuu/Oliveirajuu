@@ -1,8 +1,8 @@
 # Olá, eu sou a Julia 👋
 
 ## 👩‍💻 Sobre mim:
-Sou desenvolvedora em formação, apaixonada por tecnologia, programação e desafios.  
-Atualmente estudando **C#**, **Python** e **GitHub**, e sempre buscando aprender mais.
+Entusiasta da tecnologia em formação.  
+Atualmente estudando **C#** e **Python**. Sempre buscando aprender mais.
 
 ---
 
