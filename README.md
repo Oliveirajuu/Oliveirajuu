@@ -1,4 +1,4 @@
-# Olá, eu sou a Julia 👋
+# Olá, eu sou a Júlia 👋
 
 ## 👩‍💻 Sobre mim:
 Entusiasta da tecnologia formada.  
@@ -6,7 +6,7 @@ No momento estudando Automação de Sistemas.
 
 ---
 
-## 📊 Estatísticas do GitHub:
+## 📊 Estatísticas do GitHub
 ![Estatísticas da Julia](https://github-readme-stats.vercel.app/api?username=Oliveirajuu&show_icons=true&theme=tokyonight)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveirajuu&layout=compact&theme=tokyonight)
 
