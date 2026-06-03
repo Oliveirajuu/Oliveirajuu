@@ -1,8 +1,8 @@
 # Olá, eu sou a Julia 👋
 
 ## 👩‍💻 Sobre mim:
-Entusiasta da tecnologia em formação.  
-Atualmente estudando **C#** e **Python**.
+Entusiasta da tecnologia formada.  
+Atualmente estudando Automação de Sistemas.
 
 ---
 
