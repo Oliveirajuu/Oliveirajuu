@@ -20,6 +20,10 @@ No momento estudando Automação de Sistemas.
 ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Automação de Sistemas](https://img.shields.io/badge/-Automação%20de%20Sistemas-008080?style=flat-square)
+![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-5C2D91?style=flat-square)
+![Ploomes](https://img.shields.io/badge/-Ploomes-FF6F00?style=flat-square)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square)
 
 ---
 
