@@ -2,7 +2,6 @@
 
 ## 👩‍💻 Sobre mim:
 Entusiasta da tecnologia formada.  
-No momento estudando Automação de Sistemas.
 
 ---
 
