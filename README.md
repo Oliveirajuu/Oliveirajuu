@@ -6,12 +6,6 @@ No momento estudando Automação de Sistemas.
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas da Júlia](https://github-readme-stats.vercel.app/api?username=Oliveirajuu&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveirajuu&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠️ Tecnologias e Ferramentas:
 ![Automação de Sistemas](https://img.shields.io/badge/-Automação%20de%20Sistemas-008080?style=flat-square)
 ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-5C2D91?style=flat-square)
@@ -26,8 +20,11 @@ No momento estudando Automação de Sistemas.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ---
 
-## 📫 Como me encontrar:
-[![Email Badge](https://img.shields.io/badge/-juliaoliveira_99@hotmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:juliaaliveira_99@hotmail.com)
+## 📬 Como me encontrar:
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white)](mailto:juliaoliveira99@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-oliveira-9782631b6/)
+
+---
 
 ---
 
