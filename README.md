@@ -22,7 +22,7 @@ No momento estudando Automação de Sistemas.
 
 ## 📬 Como me encontrar:
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](https://outlook.live.com/mail/0/deeplink/compose?to=juliaoliveira99@hotmail.com&subject=Contato%20pelo%20GitHub)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://outlook.live.com/mail/0/deeplink/compose?to=juliaoliveira_99@hotmail.com&subject=Contato%20pelo%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-oliveira-9782631b6/)
 
 ---
